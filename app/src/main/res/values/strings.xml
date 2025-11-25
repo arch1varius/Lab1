@@ -54,4 +54,7 @@
     <string name="menu_edit_email">Изменить почту</string>
     <string name="dialog_save">Сохранить</string>
     <string name="dialog_cancel">Отмена</string>
+    <string name="refresh_feed">Обновить</string>
+    <string name="feed_empty_state">Сообщений пока нет</string>
+    <string name="post_number">Пост #%1$d</string>
 </resources>
